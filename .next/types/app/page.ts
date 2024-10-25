@@ -1,4 +1,4 @@
-// File: /home/runner/Einblasdammung-Landingpage/app/page.tsx
+// File: C:\Einblasd-mmung-Landing-Page-v27\app\page.tsx
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
