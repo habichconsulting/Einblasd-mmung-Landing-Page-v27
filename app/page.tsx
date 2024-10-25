@@ -398,7 +398,7 @@ export default function LandingPage() {
         <section className="container mx-auto p-4 my-8">
           <h2 className="text-2xl font-bold mb-4 text-center">Top Bewertungen für unseren Service</h2>
           <div className="flex justify-center items-center space-x-2">
-            <div className="text-2xl font-bold">4.7</div>
+            <div className="text-2xl font-bold">5.0</div>
             <div className="text-yellow-400">★★★★★</div>
             <div>(Google Bewertungen)</div>
           </div>
