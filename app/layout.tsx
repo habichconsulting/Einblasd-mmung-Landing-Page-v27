@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "My Photo Gallery",
+  title: "DDDEinblasdämmung",
 };
 
 export default function RootLayout({
