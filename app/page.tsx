@@ -14,9 +14,7 @@ import { Menu, X } from 'lucide-react'
 interface Logo {
   image: string;
   url: string;
-  alt: string;
-  width: number;
-  height: number;
+ 
 }
 
 interface LogoSliderProps {
