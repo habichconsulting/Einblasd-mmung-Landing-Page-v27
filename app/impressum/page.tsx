@@ -89,7 +89,7 @@ export default function Datenschutz() {
               Adresse: Fahrstedter Mühle, 25709 Diekhusen-Fahrstedt
             </p>
             <p><strong>Umsatzsteuer-ID:</strong></p>
-            <p>Umsatzsteuer-Identifikationsnummer gemäß §27a Umsatzsteuergesetz: Umsatzsteuer ID: XXX</p>
+            <p>Umsatzsteuer-Identifikationsnummer gemäß §27a Umsatzsteuergesetz: 16/105/01990</p>
 
             <h2 className="text-2xl font-bold mt-6 mb-4">Haftungsausschluss:</h2>
             <h3 className="text-xl font-bold mt-4 mb-2">Haftung für Inhalte</h3>
