@@ -421,8 +421,9 @@ export default function LandingPage() {
                 <p className="mt-2">Die Einsparungen variieren je nach Gebäudezustand und Dämmumfang, liegen aber typischerweise zwischen 20% und 30% der Heizkosten. In einigen Fällen können sogar Einsparungen von bis zu 50% erreicht werden.</p>
               </details>
               <details className="bg-white p-4 rounded-lg">
-                <summary className="font-semibold cursor-pointer">Kann eine Dämmung der Fassade zu  Feuchteproblemen führen?</summary>
-                <p className="mt-2">Bei fachgerechter Ausführung und Verwendung geeigneter Materialien führt eine Fassadendämmung in der Regel nicht zu Feuchteproblemen. Es ist wichtig, dass die Dämmung diffusionsoffen ist und eine ausreichende Belüftung gewährleistet wird.</p>
+                <summary className="font-semibold cursor-pointer">Stimmt es, dass Wärmedämmung zu Schimmelbildung führt?</summary>
+                <p className="mt-2">Hartnäckig hält sich bei manchen Menschen das Vorurteil, dass die Wärmedämmung von Außenwänden Schimmel verursachen würde. Dabei ist das Gegenteil richtig: Das Risiko einer Schimmelbildung ist bei gedämmten Wänden deutlich geringer als bei nichtgedämmten. Denn eine Wärmedämmung sorgt dafür, dass die Oberflächen auf der Innenseite der Außenwand warm und trocken bleiben. So hat der feuchtigkeitsliebende Schimmel kaum eine Chance.
+</p>
               </details>
             </div>
           </div>
