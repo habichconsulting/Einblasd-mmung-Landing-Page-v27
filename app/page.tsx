@@ -353,7 +353,7 @@ export default function LandingPage() {
                 url: "https://www.iso-stroh.ch/"
               },
               {
-                image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Screenshot%202024-10-11%20024231-qnETrMi0ReeMy5WxbzzbvAZ77y5eOU.png",
+                image: "https://www.isocell.com/build/images/logo/logo.svg",
                 url: "https://www.iso-chemie.eu/de/"
               }
             ]} />
